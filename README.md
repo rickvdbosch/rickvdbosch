@@ -1,17 +1,17 @@
 ## Hi, I'm Rick 👋
 
-I love doing cool things in the ([Azure](https://www.azure.com)) cloud ☁. 
+I love doing cool things in the ([Azure](https://www.azure.com)) cloud ☁. I write code, architect (cloud) systems, am a regular [speaker](https://www.rickvandenbosch.net/speaker/) at conferences and meetups and write for my [blog](https://www.rickvandenbosch.net/blog/).
 
 ## 🔭 Currently working on
 
 - The [#Betatalks](https://www.youtube.com/playlist?list=PLCLCtgDNNiJR_LDx6RT8X50VrKAH3_49B) video series
 - Contributing to [cfp.exchange](https://cfp.exchange/)
-- Writing [blog posts](https://www.rickvandenbosch.net/blog/)
 - Several example [repositories](https://github.com/rickvdbosch?tab=repositories)
+- The [.NET Zuid](https://www.dotnetzuid.nl) user group
 
-Among other things ...
+Among other things ... 😁
 
-## 👨🏻‍💻 Details
+## 🤓 Details
 
 - Name: Rick van den Bosch  
 - Search term: [rickvdbosch](https://www.duckduckgo.com/?q=rickvdbosch)
