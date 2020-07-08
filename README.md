@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, I'm Rick 👋
 
-<!--
-**rickvdbosch/rickvdbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love doing cool things in the ([Azure](https://www.azure.com)) cloud ☁. 
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- The [#Betatalks](https://www.youtube.com/playlist?list=PLCLCtgDNNiJR_LDx6RT8X50VrKAH3_49B) video series
+- Contributing to [cfp.exchange](https://cfp.exchange/)
+- Writing [blog posts](https://www.rickvandenbosch.net/blog/)
+- Several example [repositories](https://github.com/rickvdbosch?tab=repositories)
+
+Among other things ...
+
+## 👨🏻‍💻 Details
+
+- Name: Rick van den Bosch  
+- Search term: [rickvdbosch](https://www.duckduckgo.com/?q=rickvdbosch)
+- Pronouns: he/him
+- Employer: [Betabit](https://www.betabit.nl)
+- Presentations: [slideshare.net/rickvdbosch](https://www.slideshare.net/rickvdbosch)
+- Sessionize: [sessionize.com/rickvdbosch](https://sessionize.com/rickvdbosch/)
+
+### 📫 Reach out
+
+The easiest way to contact me is by sending me an [email](mailto:rickvdbosch@outlook.com). But you have
+several other options available, too. 
+
+Twitter: [@rickvdbosch](https://www.twitter.com/rickvdbosch)  
+Linkedin: [rickvdbosch](https://www.linkedin.com/in/rickvdbosch/)  
+Website: [rickvandenbosch.net](https://www.rickvandenbosch.net)
