@@ -1,6 +1,6 @@
 ## Hi, I'm Rick 👋
 
-I love doing cool things in the ([Azure](https://www.azure.com)) cloud ☁. I write code, architect (cloud) systems, am a regular [speaker](https://www.rickvandenbosch.net/speaker/) at conferences and meetups and write for my [blog](https://www.rickvandenbosch.net/blog/).
+I'm an Azure [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003402) who loves doing cool things in the ([Azure](https://www.azure.com)) cloud ☁. I write code, architect (cloud) systems, am a regular [speaker](https://www.rickvandenbosch.net/speaker/) at conferences and meetups and write for my [blog](https://www.rickvandenbosch.net/blog/).
 
 ## 🔭 Currently working on
 
