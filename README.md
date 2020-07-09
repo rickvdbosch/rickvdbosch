@@ -28,4 +28,4 @@ several other options available, too.
 
 - Twitter: [@rickvdbosch](https://www.twitter.com/rickvdbosch)  
 - Linkedin: [rickvdbosch](https://www.linkedin.com/in/rickvdbosch/)  
-- Website: [rickvandenbosch.net](https://www.rickvandenbosch.net)
+- Website contact form: [rickvandenbosch.net/contact](https://www.rickvandenbosch.net/contact)
