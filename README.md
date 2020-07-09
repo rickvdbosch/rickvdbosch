@@ -19,12 +19,13 @@ Among other things ... 😁
 - Employer: [Betabit](https://www.betabit.nl)
 - Presentations: [slideshare.net/rickvdbosch](https://www.slideshare.net/rickvdbosch)
 - Sessionize: [sessionize.com/rickvdbosch](https://sessionize.com/rickvdbosch/)
+- Website: [rickvandenbosch.net](https://www.rickvandenbosch.net)
 
 ### 📫 Reach out
 
 The easiest way to contact me is by sending me an [email](mailto:rickvdbosch@outlook.com). But you have
 several other options available, too. 
 
-Twitter: [@rickvdbosch](https://www.twitter.com/rickvdbosch)  
-Linkedin: [rickvdbosch](https://www.linkedin.com/in/rickvdbosch/)  
-Website: [rickvandenbosch.net](https://www.rickvandenbosch.net)
+- Twitter: [@rickvdbosch](https://www.twitter.com/rickvdbosch)  
+- Linkedin: [rickvdbosch](https://www.linkedin.com/in/rickvdbosch/)  
+- Website: [rickvandenbosch.net](https://www.rickvandenbosch.net)
