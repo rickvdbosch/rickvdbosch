@@ -8,6 +8,7 @@ I'm an [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003402) who lo
 
 - [Betatalks the podcast](https://podcast.betatalks.nl)
 - The [#Betatalks](https://www.youtube.com/playlist?list=PLCLCtgDNNiJR_LDx6RT8X50VrKAH3_49B) video series
+- [yieldDD.com](https://www.yielddd.com/)
 - Contributing to [cfp.exchange](https://cfp.exchange/)
 - Several example [repositories](https://github.com/rickvdbosch?tab=repositories)
 - The [.NET Zuid](https://www.dotnetzuid.nl) user group
